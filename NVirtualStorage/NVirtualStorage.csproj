@@ -16,4 +16,12 @@
       <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Include="..\_assets\virtual-storage-logo.jpeg">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+        <Link>virtual-storage-logo.jpeg</Link>
+      </None>
+    </ItemGroup>
+
 </Project>
